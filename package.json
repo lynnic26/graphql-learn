@@ -9,6 +9,6 @@
   "author": "webfrontend@outlook.com",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.11.0"
+    "koa": "^2.16.1"
   }
 }
